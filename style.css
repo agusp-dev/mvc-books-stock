@@ -1,0 +1,64 @@
+h1 {
+    text-align: center;
+    color: black;
+}
+
+#principal {
+    text-align: center;
+}
+
+p, span {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.info {
+    margin: 24px 0px;
+}
+
+.label {
+    color: gray;
+    font-size: 20px;
+    margin-right: 16px;
+}
+
+#contador {
+    font-size: 30px;
+    color: black;
+}
+
+.button {
+    display: inline-block;
+    color: white;
+    padding: 15px 36px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border: none;
+}
+
+#button-add {
+    background-color: rgb(70, 138, 72);
+}
+
+#button-add:hover {
+    background-color: rgb(56, 122, 58);
+}
+
+#button-add:active {
+    background-color: rgb(43, 105, 45);
+}
+
+
+#button-delete {
+    background-color: rgb(170, 46, 67);
+}
+
+#button-delete:hover {
+    background-color: rgb(129, 38, 53);
+}
+
+#button-delete:active {
+    background-color: rgb(109, 28, 41);
+}
+
